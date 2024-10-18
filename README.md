@@ -27,6 +27,3 @@ The clock will automatically start and sync with your local time.
 Screenshots
 ![image](https://github.com/user-attachments/assets/36ea2561-8cea-45a4-985e-b41381121f48)
 
-
-
-Replace this with an actual screenshot of the clock.
