@@ -16,7 +16,7 @@ To view and use the clock:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/analog-clock.git
+git clone https://ir-designing.github.io/analog-clock/
 Navigate to the project directory:
 bash
 Copy code
